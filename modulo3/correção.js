@@ -33,6 +33,10 @@ let mediaDois = 6.0
         console.log(`${notas}`)
 
         for (let i = 0; i < notas.length;i++) {
+
+
+            console.log('Olá')
+            
             if(notas[i] < mediaDois) {
                 reprovados.push(notas[i])
             }
