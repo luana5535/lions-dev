@@ -42,3 +42,6 @@ let mediaDois = 6.0
             }
         }
         console.log(`As notas reprovadas são ${reprovados}`)
+
+
+console.log('olá')
